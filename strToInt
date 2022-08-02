@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main() {
+    int i;
+    string s="12345";
+    i=stoi(s);
+    
+    cout<<i;
+    return 0;
+}
